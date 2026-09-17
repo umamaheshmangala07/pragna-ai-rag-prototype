@@ -1,0 +1,6 @@
+langchain==0.1.16
+langchain-community==0.0.33
+chromadb==0.4.24
+sentence-transformers==2.7.0
+PyPDF2==3.0.1
+numpy==1.26.4
