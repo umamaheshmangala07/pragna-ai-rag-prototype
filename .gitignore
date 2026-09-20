@@ -216,3 +216,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# PragnaAI: persisted vector store (generated locally, don't commit)
+pragna_vectorstore/
